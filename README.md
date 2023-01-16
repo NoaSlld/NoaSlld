@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## Things I use on a daily basis
+## Languages I used
 
 <p align="left">  
 <a href="">
