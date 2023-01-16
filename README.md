@@ -3,7 +3,7 @@
 
 <h3 align="left">Retouve moi sur mes réseaux:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noa-sillard-0a3717216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noa-sillard-0a3717216" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/noa-sillard-0a3717216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noa-sillard-0a3717216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils utilisés:</h3>
