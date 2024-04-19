@@ -15,7 +15,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
  </p> 
@@ -61,21 +62,21 @@
 
 <h3>Some known concepts:</h3>
 <p>
-  <a>Naming conventions</a>
-  <a>REST API</a>
-  <a>Design patterns</a>
-  <a>Http verb and return code</a>
+  <a>Naming conventions</a><br>
+  <a>REST API</a><br>
+  <a>Design patterns</a><br>
+  <a>Http verb and return code</a><br>
   <a>Routing</a>
 </p>
 
 <h3>IDE:</h3>
 <p>
-  <a>InteliJ</a>
-  <a>PhpStorm</a>
-  <a>Vs Studio Code</a>
-  <a>Netbeans</a>
-  <a>Eclips</a>
-  <a>Visuals Studio</a>
-  <a>Android Studio</a>
+  <a>InteliJ Idea</a><br>
+  <a>PhpStorm</a><br>
+  <a>Vs Studio Code</a><br>
+  <a>Netbeans</a><br>
+  <a>Eclips</a><br>
+  <a>Visuals Studio</a><br>
+  <a>Android Studio</a><br>
 </p>
 
