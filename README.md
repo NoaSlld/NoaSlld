@@ -65,7 +65,7 @@
   <a>Naming conventions</a><br>
   <a>REST API</a><br>
   <a>Design patterns</a><br>
-  <a>Http verb and return code</a><br>
+  <a>Http verbs and return codes</a><br>
   <a>Routing</a>
 </p>
 
@@ -73,10 +73,10 @@
 <p>
   <a>InteliJ Idea</a><br>
   <a>PhpStorm</a><br>
-  <a>Vs Studio Code</a><br>
+  <a>Visual Studio Code</a><br>
   <a>Netbeans</a><br>
   <a>Eclips</a><br>
-  <a>Visuals Studio</a><br>
+  <a>Visual Studio</a><br>
   <a>Android Studio</a><br>
 </p>
 
